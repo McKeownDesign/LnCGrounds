@@ -1,10 +1,11 @@
 body{
     font-family: 'Roboto';
     width: 100%;
-    background-repeat: no-repeat !important;
+    background-repeat: no-repeat !important; 
 }
 
 .business-header {
+    /*height: 45vh;*/
     /*height: 45vh;*/
     min-height: 300px;
     background-color: #ffffff;
