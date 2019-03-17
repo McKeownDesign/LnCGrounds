@@ -12,18 +12,12 @@ body{
 .business-header {
     /*height: 45vh;*/
     min-height: 300px;
-    background:linear-gradient(rgba(159, 134, 88, 0.8), 
-    rgba(159, 134, 88, 0.8)),url('../images/slider-bg-placeholder.jpg')  center center no-repeat scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-color: #ffffff;
     position: aboslute;
     top: 0;
     left: 0;
     width: 100%;
     z-index: -1;
-  
   }
 
 .navbar{
@@ -689,9 +683,10 @@ footer{
     color: #004F2E;
 }
     
-
+.padding-top-35{
+    padding-top: 35px;
+}
 .two-up-block{
-    padding-top: 85px;
     margin-top:0px;
 }
 
