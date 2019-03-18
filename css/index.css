@@ -5,7 +5,7 @@ body{
 
 .business-header {
     height: 65vh;
-    min-height: 300px;
+    min-height: 525px;
     background: url('../images/slider-bg-placeholder.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -281,30 +281,36 @@ div.btn-group {
 .groundsManagemanetC{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-commercial-service-1.jpg");
+    background-size:cover;
 }
 
 .snowRemovalC{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-commercial-service-2.jpg");
+    background-size:cover;
 }
 
 .landscapeServicesC{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-commercial-service-3.jpg");
+    background-size:cover;
 }
 .groundsManagemanet{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-residential-service-1.jpg");
+    background-size:cover;
 }
 
 .snowRemoval{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-residential-service-2.jpg");
+    background-size:cover;
 }
 
 .landscapeServices{
     background: linear-gradient(transparent, #004F2E),
     url("../images/homepage-feature-residential-service-3.jpg");
+    background-size:cover;
 }
 
 .cardText{
