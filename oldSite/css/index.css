@@ -1,0 +1,32 @@
+.bg-dark {
+    background-color: #1A4E29 !important;
+}
+
+.btn-primary {
+    background-color: #1A4E29;
+    border-color: #1A4E29;
+}
+
+.btn-primary:hover {
+    background-color: #9B8752;
+    border-color: #9B8752;
+}
+
+.card img {
+    max-height: 400px;
+    min-height: 400px;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+@media only screen and (max-width: 1000px) {
+    #logoImg {
+        content:url(../images/logo_small.png);
+    }
+
+    #logoText {
+        display: none;
+    }
+}
